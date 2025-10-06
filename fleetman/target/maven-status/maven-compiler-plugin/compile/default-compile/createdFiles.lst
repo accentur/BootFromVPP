@@ -3,4 +3,6 @@ com\virtualpairprogrammers\config\SecurityConfiguration.class
 com\virtualpairprogrammers\controllers\VehicleController.class
 com\virtualpairprogrammers\data\VehicleRepository.class
 com\virtualpairprogrammers\domains\Vehicle.class
+com\virtualpairprogrammers\rest\VehicleRestController.class
 com\virtualpairprogrammers\FleetmanApplication.class
+com\virtualpairprogrammers\rest\VehicleList.class
