@@ -1,4 +1,6 @@
 com\virtualpairprogrammers\controllers\FirstController.class
+com\virtualpairprogrammers\config\SecurityConfiguration$FormLoginWebSecurityConfigurerAdapter.class
+com\virtualpairprogrammers\config\SecurityConfiguration$ApiWebSecurityConfigurationAdapter.class
 com\virtualpairprogrammers\config\SecurityConfiguration.class
 com\virtualpairprogrammers\controllers\VehicleController.class
 com\virtualpairprogrammers\data\VehicleRepository.class

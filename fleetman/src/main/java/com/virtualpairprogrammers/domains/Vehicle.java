@@ -21,6 +21,14 @@ public class Vehicle {
 
 	public Vehicle() {}
 	
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
 	public Vehicle(String name) {
 		this.name = name;
 	}
